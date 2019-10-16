@@ -14,7 +14,6 @@ Drupal 8.x Maintenance and Support contract template
 - Website activity status (traffic, bandwidth, page impressions, peaks)
 - Custom modules, plugins, code
 - Multisite system
-
 - eCommerce system. eCommerce needs special treatment and specific maintenance tasks
 - Other special requirements (eg Goverment website)
 

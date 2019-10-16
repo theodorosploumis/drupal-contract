@@ -5,16 +5,19 @@ Drupal 8.x Maintenance and Support contract template
 ## Parameters to consider
 
 - Drupal version
+- Hosting
 - Member accounts. If anonymous can create member accounts or sumbit data there are more security issues to take care of
-- eCommerce system. eCommerce needs special treatment and specific maintenance tasks
+- User permissions and roles
 - 3rd party integrations (authentication, APIs, external js libraries etc). More integrations mean more issues
-- Database size
+- Database size and increase factor
+- Is there any migration happened from older Drupal versions?
 - Website activity status (traffic, bandwidth, page impressions, peaks)
-- Drupal version
 - Custom modules, plugins, code
 - Multisite system
-- User permissions and roles
-- Other special requirements (eg US org site)
+
+- eCommerce system. eCommerce needs special treatment and specific maintenance tasks
+- Other special requirements (eg Goverment website)
+
 
 ## Common Drupal maintenance tasks
 
@@ -48,6 +51,7 @@ Drupal 8.x Maintenance and Support contract template
 - Cost ($/hr) for tasks not included on the maintenance contract
 - Contract duration 6/12 months
 
+
 ## Drupal Maintanance offer example
 
 | Task   | Plan A    | Plan B    | Plan C   |
@@ -63,4 +67,4 @@ Drupal 8.x Maintenance and Support contract template
 | Response time | 24hr | 8hr | 2hr |
 | Monthly report | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | Contract duration | 12 month | 12 month | 12 month |
-| Tasks not included | 35$/hr | 35$/hr | 30$/hr |
+| Urgent tasks not included in contract | 35$/hr | 35$/hr | 30$/hr |

@@ -1,4 +1,4 @@
-# drupal-contract
+# Drupal project maintenance contract
 Drupal 8.x Maintenance and Support contract template
 
 
@@ -8,10 +8,11 @@ Drupal 8.x Maintenance and Support contract template
 - eCommerce system. eCommerce needs special treatment and specific maintenance tasks
 - 3rd party integrations (authentication, APIs, external js libraries etc). More integrations mean more issues
 - Database size
-- Website traffic
+- Website activity status (traffic, bandwidth, page impressions, peaks)
 - Drupal version
 - Custom modules, plugins, code
 - Multisite system
+- User permissions and roles
 - Other special requirements (eg US org site)
 
 ## Common Drupal maintenance tasks
@@ -19,20 +20,22 @@ Drupal 8.x Maintenance and Support contract template
 - Drupal core security updates (with dependencies)
 - Drupal minor version upgrade (eg 8.7.14 to 8.8.0)
 - Contrib (D.O.) modules security updates
+- 3rd party integrations updates (eg update an external API endpoint)
 - Apply patches
 - Bug fixes
 - Keep and restore offsite backups (db, public files, code)
-- Define and execute a disaster recovery strategy
+- Define a disaster recovery plan
+- Define a maintenance plan (who, when, what, how, costs)
 - Support via phone call
 - Support via email
 - Support via online ticketing system
 - 24x7 support
 - Security auditing
 - System/infrastructure updates
-- Response within 1 hr
-- Response within 8 hr
-- Response within 1 day
+- Response within 1/8/24/72 hr
 - Hacked website repair
-- Version control development (git) with 3 environments (dev, stage, prod)
+- Broken link scan
+- Uptime monitoring
+- Version control development (git) with 3 environments (dev, stage, prod) for testing after all tasks
 - Weekly/monthly reports
 - Cost/hr for tasks not included on the maintenance contract

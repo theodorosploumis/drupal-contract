@@ -19,7 +19,7 @@ Drupal 8.x Maintenance and Support contract template
 ## Common Drupal maintenance tasks
 
 - Drupal core security updates (with dependencies)
-- Drupal minor version upgrade (eg 8.7.14 to 8.8.0)
+- Drupal core minor version upgrade (eg 8.7.14 to 8.8.0)
 - Contributed (D.O.) modules security updates
 - Contributed (D.O.) themes security updates (base theme)
 - 3rd party integrations updates (eg update an external API endpoint)
@@ -35,8 +35,8 @@ Drupal 8.x Maintenance and Support contract template
 - Support via online ticketing system (backlog)
 - 24x7 support (including weekends and holidays)
 - Security auditing
-- Spam Filtering and Cleansing
-- Malware Filtering and Cleansing
+- Spam filtering and cleansing
+- Malware filtering and cleansing
 - System/infrastructure updates
 - Response within 1/8/24/72 hr
 - Hacked website repair
@@ -50,5 +50,17 @@ Drupal 8.x Maintenance and Support contract template
 
 ## Drupal Maintanance offer example
 
-| Task   | Plan A  | Plan B  | Plan C  |
-| ------ | ------- | ------- | ------- |
+| Task   | Plan A    | Plan B    | Plan C   |
+| ------ | :-------: | :-------: | :-------:|
+| Core security updates | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Core minor version upgrade | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Contributed modules & theme security updates | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| Bug fixes due to existing code & infrastructure | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| Version control development (dev, stage, prod) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| Support via phone call | - | - | :heavy_check_mark: |
+| Support via email | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| 24x7 support | - | - | :heavy_check_mark: | 
+| Response time | 24hr | 8hr | 2hr |
+| Monthly report | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| Contract duration | 12 month | 12 month | 12 month |
+| Tasks not included | 35$/hr | 35$/hr | 30$/hr |

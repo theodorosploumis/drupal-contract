@@ -42,11 +42,11 @@ Drupal 8.x Maintenance and Support contract template
 - Hacked website repair
 - Broken link scan
 - Uptime monitoring
-- Version control development (git) with 3 environments (dev, stage, prod) for testing after all tasks
+- Version control development (git) with 3 environments (dev, stage, prod) for QA testing
 - Weekly/monthly reports
-- Contract duration 6/12 months
 - Create a knowledge database (documentation) for maintenance tasks
-- Cost/hr for tasks not included on the maintenance contract
+- Cost ($/hr) for tasks not included on the maintenance contract
+- Contract duration 6/12 months
 
 ## Drupal Maintanance offer example
 
@@ -57,8 +57,8 @@ Drupal 8.x Maintenance and Support contract template
 | Contributed modules & theme security updates | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Bug fixes due to existing code & infrastructure | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | Version control development (dev, stage, prod) | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
+| Support via email | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Support via phone call | - | - | :heavy_check_mark: |
-| Support via email | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | 24x7 support | - | - | :heavy_check_mark: | 
 | Response time | 24hr | 8hr | 2hr |
 | Monthly report | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 

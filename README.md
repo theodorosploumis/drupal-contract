@@ -67,3 +67,15 @@ Drupal 8.x Maintenance and Support contract template
 | Monthly report | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | Contract duration | 12 month | 12 month | 12 month |
 | Urgent tasks not included in contract | 35$/hr | 35$/hr | 30$/hr |
+
+
+## Resources
+- https://www.appnovation.com/services/drupal-development/support-maintenance
+- https://opensenselabs.com/blog/articles/a-drupal-support-and-maintenance-guide
+- https://www.drupaldevelopersstudio.com/drupal-support-maintenance
+- https://www.drupalpartners.com/services/drupal-maintenance-and-support-company
+- https://www.optasy.com/services/drupal-maintenance-support
+- https://www.drupalaid.com
+- https://ixis.co.uk/drupal/support
+- https://maintainn.com/plans
+- https://www.web-savvy-marketing.com/wordpress-consulting/wordpress-support-and-maintenance/

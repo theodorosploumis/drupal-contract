@@ -78,4 +78,5 @@ Drupal 8.x Maintenance and Support contract template
 - https://www.drupalaid.com
 - https://ixis.co.uk/drupal/support
 - https://maintainn.com/plans
-- https://www.web-savvy-marketing.com/wordpress-consulting/wordpress-support-and-maintenance/
+- https://www.web-savvy-marketing.com/wordpress-consulting/wordpress-support-and-maintenance
+- https://www.freelock.com/product/drupal-protection-plan

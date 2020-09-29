@@ -67,6 +67,7 @@ Drupal 8.x Maintenance and Support contract template
 | Monthly report | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | Contract duration | 12 month | 12 month | 12 month |
 | Urgent tasks not included in contract | 35$/hr | 35$/hr | 30$/hr |
+| **Cost $/yr** | **2000** | **3000** | **5000** |
 
 
 ## Resources

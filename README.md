@@ -50,6 +50,25 @@ Drupal 8.x Maintenance and Support contract template
 - Cost ($/hr) for tasks not included on the maintenance contract
 - Contract duration 6/12 months
 
+## Maintenance plan
+
+Here is a proposed maintenance plan for Drupal websites.
+Some tasks may not refer to technical maintenance but keep here for reference (eg the SEO or PageSpeed optiomizations).
+
+- Once a month on the first Wednesday of the month - update of the minor version of Drupal with fixed bugs. It may happen more often, it depends on the severity of the bugs.
+- Once a month on the 3rd Wednesday of the month - check security releases in modules supported by the Drupal Community.
+- Once a month and every time within 2 days after deployment - track errors through Google Analytics or dblog.
+- Once in 3 months - SEO.
+- Once in 6 months - check compliance with the principles of accessibility.
+- Once in 6 months - Google PageSpeed Insights optimization.
+- Once in 6 months - update the Drupal minor version.
+- Once in 6 months - refactor front end.
+- Once a year - update PHP.
+- Two weeks before the certificate expires, renew the SSL certificate (automatically or manually).
+- Every time the site is updated - check custom code and check the functionality of  the site.
+- Every time the site is updated add the new values (eg Drupal and php version) on the internal Drupal Support Sheet file.
+- Once a year update the Support Contract between your company and the customer (eg add/remove tasks, alter pricing etc)
+
 
 ## Drupal Maintanance offer example
 
@@ -81,3 +100,4 @@ Drupal 8.x Maintenance and Support contract template
 - https://maintainn.com/plans
 - https://www.web-savvy-marketing.com/wordpress-consulting/wordpress-support-and-maintenance
 - https://www.freelock.com/product/drupal-protection-plan
+- https://www.adcisolutions.com/knowledge/importance-website-maintenance

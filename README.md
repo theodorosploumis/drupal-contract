@@ -21,7 +21,7 @@ Drupal 8.x Maintenance and Support contract template
 ## Common Drupal maintenance tasks
 
 - Drupal core security updates (with dependencies)
-- Drupal core minor version upgrade (eg 8.7.14 to 8.8.0)
+- Drupal core minor version upgrade (eg 8.9.2 to 8.9.11)
 - Contributed (D.O.) modules security updates
 - Contributed (D.O.) themes security updates (base theme)
 - 3rd party integrations updates (eg update an external API endpoint)
@@ -55,7 +55,7 @@ Drupal 8.x Maintenance and Support contract template
 The values here are just for reference, every project has its own complexity and functionality. Also, they refer only to major sucurity updates on core and contributed modules.
 
 - A simple Drupal 8.x+ website without many contributed modules may need about **1hr per month**.
-- A multisite installation of about 5 simple sites (as above) may need **3hr/month**.
+- A multisite installation of about 5 simple sites (as above) may need **3hr per month**.
 - A complex Drupal 8.x+ website with many modules and integrations may need about **6hr - 10hr per month**.
 - A simple Drupal 8.x commerce website may need **6hr per month**.
 - A large Drupal 8.x website with User accounts and 3rd party integrations may need more than **10hr per month**.

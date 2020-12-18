@@ -50,14 +50,25 @@ Drupal 8.x Maintenance and Support contract template
 - Cost ($/hr) for tasks not included on the maintenance contract
 - Contract duration 6/12 months
 
+
+## Statistics
+The values here are just for reference, every project has its own complexity and functionality. Also, they refer only to major sucurity updates on core and contributed modules.
+
+- A simple Drupal 8.x+ website without many contributed modules may need about **1hr per month**.
+- A multisite installation of about 5 simple sites (as above) may need **3hr/month**.
+- A complex Drupal 8.x+ website with many modules and integrations may need about **6hr - 10hr per month**.
+- A simple Drupal 8.x commerce website may need **6hr per month**.
+- A large Drupal 8.x website with User accounts and 3rd party integrations may need more than **10hr per month**.
+
+
 ## Maintenance plan
 
-Here is a proposed maintenance plan for Drupal websites.
+Here is a proposed maintenance plan for Drupal websites from AdciSolutions.
 Some tasks may not refer to technical maintenance but keep here for reference (eg the SEO or PageSpeed optiomizations).
 
 - Once a month on the first Wednesday of the month - update of the minor version of Drupal with fixed bugs. It may happen more often, it depends on the severity of the bugs.
-- Once a month on the 3rd Wednesday of the month - check security releases in modules supported by the Drupal Community.
-- Once a month and every time within 2 days after deployment - track errors through Google Analytics or dblog.
+- Once a month - on the **3rd Wednesday of the month** - check security releases in modules supported by the Drupal Community.
+- Once a month and every time within 2 days after deployment - track errors through Google Analytics, logging systems and human QA.
 - Once in 3 months - SEO.
 - Once in 6 months - check compliance with the principles of accessibility.
 - Once in 6 months - Google PageSpeed Insights optimization.

@@ -153,3 +153,4 @@ Here are the basic steps to follow to accomplish this.
 - https://www.web-savvy-marketing.com/wordpress-consulting/wordpress-support-and-maintenance
 - https://www.freelock.com/product/drupal-protection-plan
 - https://www.adcisolutions.com/knowledge/importance-website-maintenance
+- https://www.vardot.com/en-us/ideas/resources/support-maintenance-and-growth
